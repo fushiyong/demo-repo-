@@ -1,0 +1,2 @@
+这是一个示例文件，用于演示GitHub仓库的创建和文件提交。
+Random content: "+Math.random().toString(36).substring(2, 15)+"
